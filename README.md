@@ -12,9 +12,9 @@ a Clean and Open Source Discord Nitro Generator and Checker made by Fab#7542.
 Want to download it? Scroll down!
 </h3>
 
-## 🐍・ Download Python
+## How to download VENTR
 
-Download [Python](https://www.python.org/downloads/) to start off if you don't have it already!
+Install python by pressing [HERE](https://www.python.org/downloads/) if you don't alredy have it.
 ```sh-session
 python v3.10.1 or higher
 ```
