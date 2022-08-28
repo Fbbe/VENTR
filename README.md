@@ -1,13 +1,13 @@
 <h1 align="center">
 💎VENTR💎
 </h1>
-<h3 align="center">
-a Clean and Open Source Discord Nitro Generator and Checker made by Fab#7542.
-</h3>
-
 <h2 align="center">
-  VENTR works by generating random strings of text that 𝗰𝗼𝘂𝗹𝗱 be valid Discord Nitro codes, and checks if they are.
+a Clean and Open Source Discord Nitro Generator and Checker made by Fab#7542.
 </h2>
+
+<h3 align="center">
+  VENTR works by generating random strings of text that 𝗰𝗼𝘂𝗹𝗱 be valid Discord Nitro codes, and checks if they are.
+</h3>
 
 ## 🐍・ Download Python
 
