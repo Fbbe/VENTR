@@ -15,35 +15,28 @@ Want to download it? Scroll down!
 ## How to download VENTR
 
 Install python by pressing [HERE](https://www.python.org/downloads/) if you don't alredy have it.
-```sh-session
-python v3.10.1 or higher
+Must be version v3.10.1 or higher.
+
+### 1. Run setup.bat.
+```
+Setup.bat will automatically install all the needed modules for you. If you want to take a peek at the code then simply change the filename to .txt
 ```
 
-### 1. Open the install.bat:
+### 2. Run "main.py".
 ```
-This file will download all the required modules for you. You can then open the .py file with either cmd or python launcher. 
+After running, you will receive instructions
 ```
+### 3. Follow instructions in the cmd window.
+```
+Simply input the number of codes you wish to generate and a webhook if you wish to.
+```
+### 4. Check for codes
+```
+Assuming your internet and pc aren't horrible, codes will be generated in the dozens every moment.
+If you've used a webhook then you'll be sent the valid codes through discord.
+If you have not then the codes will also generate into a .txt file for you.
+```
+VENTR was made for educational purposes and should not be used with any malicious intent.
+I, Fbbe, Do NOT take any responsibility for any action that may be taken upon you.
 
-### 2. Input Amount Of Codes
-```
-This is self explanatory, just type an amount you'd like to check.
-I'd recommend 5000+.
-```
-### 3. Input Webhook
-```
-You will now be prompted to input your webhook. This is so valid codes
-can be sent to the webhook so you can instantly claim them. Once you've 
-done this press enter.
-```
-### 4. Code Checking
-```
-100s of codes will be created and checked. Most will be invalid but there is 
-a small chance a code will be generated. Now you can just wait and hope to get
-lucky!
-```
-### 5. Your Welcome, Enjoy!
-This was made for educational purposes only. We do not take responsibility of any actions
-held against you.
-
-
-> Don't quite understand how to set it up? [Click me!](https://discord.gg/HWeThmwy2J)
+If you need any help setting VENTR up then feel free to hit me up at Fab#7542
