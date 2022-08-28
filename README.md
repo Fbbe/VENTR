@@ -6,7 +6,10 @@ a Clean and Open Source Discord Nitro Generator and Checker made by Fab#7542.
 </h2>
 
 <h3 align="center">
-  VENTR works by generating random strings of text that 𝗰𝗼𝘂𝗹𝗱 be valid Discord Nitro codes, and checks if they are.
+  VENTR works by generating random strings of text that 𝗰𝗼𝘂𝗹𝗱 be valid Discord Nitro codes, and automatically checks if they are for you in a fraction of a second.
+</h3>
+<h3 align="center">
+Want to download it? Scroll down!
 </h3>
 
 ## 🐍・ Download Python
