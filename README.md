@@ -36,6 +36,8 @@ Assuming your internet and pc aren't horrible, codes will be generated in the do
 If you've used a webhook then you'll be sent the valid codes through discord.
 If you have not then the codes will also generate into a .txt file for you.
 ```
+Don't be a leecher. If you had use for VENTR then please give us a star on Github!
+
 VENTR was made for educational purposes and should not be used with any malicious intent.
 I, Fbbe, Do NOT take any responsibility for any action that may be taken upon you.
 
