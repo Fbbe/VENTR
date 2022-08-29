@@ -13,6 +13,7 @@ Want to download it? Scroll down!
 </h3>
 
 ## How to download VENTR
+Before you install, please keep in mind that this software *guesses* codes and therefore is entirely luck based. It may take a long time for you to find a valid code
 
 Install python by pressing [HERE](https://www.python.org/downloads/) if you don't alredy have it.
 Must be version v3.10.1 or higher.
