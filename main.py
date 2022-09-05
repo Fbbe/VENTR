@@ -85,7 +85,7 @@ class NitroGen:
         chars = []
         chars[:0] = string.ascii_letters + string.digits
 
-        c = numpy.random.choice(chars, size=[num, 23])
+        c = numpy.random.choice(chars, size=[num, 15])
         for s in c:  
             try:
                 code = ''.join(x for x in s)
